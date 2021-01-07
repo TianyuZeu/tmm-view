@@ -28,4 +28,5 @@ export default {
     }
   }
 }
+// nothing
 </script>
